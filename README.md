@@ -1,4 +1,4 @@
-https://github.com/Aayush007A/Aayush007A/blob/main/Gold%20Elegant%20Intro%20Youtube%20Video.mp4
+<video autoplay><source src="https://github.com/Aayush007A/Aayush007A/blob/main/Gold%20Elegant%20Intro%20Youtube%20Video.mp4"></video>
 <h1 align="center">Hi 👋, I'm Aayush Upadhyay</h1>
 <h3 align="center">I am a highly skilled data scientist and i have a strong background in maths, machine learning, deep learning, computer vision, python, databases and many more</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
