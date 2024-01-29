@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aayush upadhyay" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="aayush upadhyay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayushupadhyay" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="aayush upadhyay" height="30" width="40" /></a>
 <a href="https://kaggle.com/aayush upadhyay 007" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="aayush upadhyay 007" height="30" width="40" /></a>
 <a href="https://instagram.com/au_since_2002" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png" alt="au_since_2002" height="30" width="40" /></a>
 </p>
